@@ -1,4 +1,4 @@
-# Street-network-topology-modeling-based-on-every-best-fit--dual-approach
+# Street network topology modeling based on every-best-fit--dual approach
 Graduate project, LSGI Department, Hong Kong Polytechnic University
 
 This project supports my own report, it was interesting to explore the underlying characteristics of the street network. I modeled a double map of the street network using Python-based correlation functions from Openstreetmap, which is a code that applies to regions all over the world., while supporting continuity negotiation with Every best-fit strategy.
